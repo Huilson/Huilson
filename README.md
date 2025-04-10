@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huilson
 - 👀 I’m interested in Kotlin, Java, Javascript, Python, Lua, Android, etc.
-- 🌱 I’m currently learning Jacascript and Python.
+- 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on anything (really)
 - 📫 How to reach me hill.winterclaw@gmail.com
 
